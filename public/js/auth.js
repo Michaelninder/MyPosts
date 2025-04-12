@@ -2,7 +2,6 @@ function showPassword(inputId, iconId) {
     var input = document.getElementById(inputId);
     var icon = document.getElementById(iconId);
     
-    // Toggle password visibility
     if (input.type === "password") {
         input.type = "text";
         icon.classList.remove("bi-eye");
