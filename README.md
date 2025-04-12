@@ -1,2 +1,2 @@
 # MyPosts
-A Laravel Bloggin website
+A Laravel Blogging website
